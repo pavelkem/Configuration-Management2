@@ -1,0 +1,7 @@
+[nodes]
+node0 ansible_host=172.31.90.66
+node1 ansible_host=172.31.82.245
+
+[nodes:vars]
+ansible_user=ubuntu
+pavel_test=value
